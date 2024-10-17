@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Compose sample</string>
+
+    <!-- Labels for Sign-In Screen -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="app_logo">App logo</string>
+    <string name="next">Next</string>
+
+    <!-- Chat List UI -->
+    <string name="user_avatar">User Avatar</string>
+    <string name="sender">Sender</string>
+    <string name="message_text">Message text</string>
+    <string name="_10_00">10:00</string>
+
+    <!-- Onboarding and Description -->
+    <string name="description_of_functionality">Description of functionality</string>
+    <string name="onboard_description">1. The image at the top shows the application logo.\n2. The text displays the user is greeting.\n3. The "Next" button allows you to go to the login screen without animation.\n
+        After successful login, a screen with RecyclerView opens, where chats are displayed
+        with information about the sender, message, and time.
+    </string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
